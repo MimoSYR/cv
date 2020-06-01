@@ -1,0 +1,197 @@
+/************************* TAGS SELECTORS *************************/
+body {
+  margin: 0;
+  text-align: center;
+  font-family: 'Merriweather', serif;
+}
+
+h1 {
+  margin: 0;
+  font-family: 'Sacramento', cursive;
+  font-size: 5.625rem;
+  color: #66BFBF;
+  line-height: 2;
+}
+
+.first-container h2 {
+  padding: 0;
+  font-weight: normal;
+}
+
+h2 {
+  font-family: 'Montserrat', sans-serif;
+  margin: 0;
+  padding: 50px 0;
+  color: #66BFBF;
+  font-size: 2.5rem;
+}
+
+h3 {
+  margin: auto;
+  width: 35%;
+  font-family: 'Montserrat', sans-serif;
+  color: #11999E;
+}
+
+a {
+  color: #11999E;
+  font-family: 'Montserrat', sans-serif;
+  text-decoration: none;
+}
+
+a:hover {
+  color: white;
+}
+
+hr {
+  margin: 0;
+  border-top: 1px;
+  border-color: #63b7af;
+}
+
+p {
+  margin: auto;
+  width: 55%;
+}
+
+/************************* CLASSES SELECTORS *************************/
+.first-container {
+  background-color: #d4f3ef;
+  padding-top: 100px;
+  /*height: 200px;
+  width: 200px;*/
+}
+
+/*  abf0e9
+.second-container {
+}
+
+.third-container {
+}
+*/
+.cloud1 {
+  position: absolute;
+  right: 200px;
+  top: 40px;
+}
+
+.cloud2 {
+  position: absolute;
+  left: 200px;
+  bottom: 200px;
+}
+
+.mountain {
+  width: 20%;
+  padding-top: 50px;
+  position: relative;
+  top: 2px;
+}
+
+.profile {
+  padding: 50px 0;
+}
+
+.skills {
+  background-color: #f7f7f7;
+  padding: 100px 0;
+}
+
+.skill-row {
+  width: 50%;
+  margin: 100px auto 100px auto;
+  padding: 40px 0;
+  text-align: left;
+  line-height: 2;
+  color: #3f3f44;
+}
+
+.contact-me {
+  background-color: #d4f3ef;
+  padding: 100px 0 100px 0;
+  color: #3f3f44;
+}
+
+.contact-me h2 {
+  padding-top: 0;
+}
+
+.btn {
+  background: #11CCD4;
+  background-image: -webkit-linear-gradient(top, #11CCD4, #11999E);
+  background-image: -moz-linear-gradient(top, #11CCD4, #11999E);
+  background-image: -ms-linear-gradient(top, #11CCD4, #11999E);
+  background-image: -o-linear-gradient(top, #11CCD4, #11999E);
+  background-image: linear-gradient(to bottom, #11CCD4, #11999E);
+  -webkit-border-radius: 9px;
+  -moz-border-radius: 9px;
+  border-radius: 9px;
+  color: #FFFFFF;
+  font-family: arial;
+  font-size: 14px;
+  font-weight: 600;
+  padding: 15px;
+  text-shadow: 1px 1px 20px #000000;
+  text-decoration: none;
+  display: inline-block;
+  cursor: pointer;
+  text-align: center;
+}
+
+.btn:hover {
+  border: solid #337FED 0px;
+  background: #30E3CB;
+  background-image: -webkit-linear-gradient(top, #30E3CB, #2BC4AD);
+  background-image: -moz-linear-gradient(top, #30E3CB, #2BC4AD);
+  background-image: -ms-linear-gradient(top, #30E3CB, #2BC4AD);
+  background-image: -o-linear-gradient(top, #30E3CB, #2BC4AD);
+  background-image: linear-gradient(to bottom, #30E3CB, #2BC4AD);
+  -webkit-border-radius: 10px;
+  -moz-border-radius: 10px;
+  border-radius: 10px;
+  text-decoration: none;
+}
+
+.bottom-container {
+  background-color: #66BFBF;
+  padding: 50px 0;
+  color: #EAF6F6;
+  line-height: 2;
+}
+
+.footer-link {
+  margin: 10px 20px;
+}
+
+.lol {
+  width: 40%;
+  margin: 30px auto 50px auto;
+}
+
+.name {
+  width: 32%;
+}
+
+.copyright {
+  margin: 30px auto;
+  font-size: 0.7rem;
+}
+
+/************************* IMG's CLASSES SELECTORS *************************/
+.mimo {
+  width: 80px;
+}
+
+.gaming {
+  width: 25%;
+  float: left;
+  padding-right: 30px;
+}
+
+.cooking {
+  width: 25%;
+  float: right;
+  margin-left: 30px;
+}
+
+/************************* ID's SELECTORS *************************/
